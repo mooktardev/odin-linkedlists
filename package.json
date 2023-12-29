@@ -1,0 +1,26 @@
+{
+  "name": "odin-linkedlists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooktardev/odin-linkedlists.git"
+  },
+  "keywords": [
+    "LinkedList"
+  ],
+  "author": "Mooktar Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mooktardev/odin-linkedlists/issues"
+  },
+  "homepage": "https://github.com/mooktardev/odin-linkedlists#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
